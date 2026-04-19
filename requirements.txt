@@ -1,5 +1,6 @@
-scikit-learn>=1.5,<1.10
+scikit-learn>=1.6,<1.10
 pandas
 numpy
 matplotlib
 pytest
+seaborn
